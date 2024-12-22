@@ -102,6 +102,12 @@ body{
 
 
 #home #stories {
+    box-shadow: #4C5F63;
+    border-radius: 12px;
+    padding: 10px;
+    border-top: 3px solid #305c6558;
+    border-left: 3px solid #305c6558;
+    border-right: 3px solid #305c6558;
     display: flex;
     flex-wrap: wrap;
     justify-content: space-between;
